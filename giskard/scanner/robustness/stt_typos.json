@@ -1,0 +1,88 @@
+{
+    "wordStatistics": {
+      "correctWords": {
+        "All": 5270,
+        "Inside": 3237
+      },
+      "substitutedWords": {
+        "All": 1685,
+        "Inside": 1132
+      },
+      "insertedWords": {
+        "All": 2111,
+        "Inside": 1541
+      },
+      "deletedWords": {
+        "All": 322,
+        "Inside": 178
+      }
+    },
+    "uniqueStatistics": {
+      "uniqueCorrect": {
+        "All": 839,
+        "Inside": 710
+      },
+      "uniqueSubstitutions": {
+        "All": 1187,
+        "Inside": 827
+      },
+      "uniqueInsertions": {
+        "All": 449,
+        "Inside": 371
+      },
+      "uniqueDeletions": {
+        "All": 154,
+        "Inside": 93
+      }
+    },
+    "topWords": {
+      "correctWords": {
+        "1": "he (178)",
+        "2": "she (134)",
+        "3": "for (112)",
+        "4": "dr (87)",
+        "5": "and (80)",
+        "6": "old (71)",
+        "7": "to (70)",
+        "8": "bed (64)",
+        "9": "all (56)",
+        "10": "the (55)"
+      },
+      "substitutedWords": {
+        "1": "years yrs (48)",
+        "2": "in and (22)",
+        "3": "one 1 (17)",
+        "4": "also obs (12)",
+        "5": "to 2 (12)",
+        "6": "and he (1)",
+        "7": "he his (9)",
+        "8": "also are (7)",
+        "9": "ambien ambulant (6)",
+        "10": "ambulating ambulant (6)"
+      },
+      "insertedWords": {
+        "1": "and (210)",
+        "2": "is (136)",
+        "3": "in (106)",
+        "4": "she (71)",
+        "5": "are (58)",
+        "6": "all (45)",
+        "7": "arm (44)",
+        "8": "for (43)",
+        "9": "the (37)",
+        "10": "he (35)"
+      },
+      "deletedWords": {
+        "1": "is (20)",
+        "2": "are (13)",
+        "3": "and (11)",
+        "4": "s (8)",
+        "5": "obs (6)",
+        "6": "of (5)",
+        "7": "bed (4)",
+        "8": "her (4)",
+        "9": "4 (3)",
+        "10": "all (3)"
+      }
+    }
+  }
